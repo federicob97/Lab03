@@ -49,5 +49,6 @@ public class SpellModel {
 	public void clearModel() {
 		wrongWords.clear();
 		errors=0;
+		dic = new Dictionary();
 	}
 }

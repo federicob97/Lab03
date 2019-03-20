@@ -80,6 +80,7 @@ import javafx.event.ActionEvent;
 	    	txtTime.setText("0 ns");
 	    	languageMenu.setDisable(false);
 	    	model.clearModel();
+	    	languageMenu.setText("MenuButton");
 	    	//pulire tutto
 	    }
 
